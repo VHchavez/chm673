@@ -3,16 +3,6 @@ Computer Setup
 
 You should familiarize yourself with the use of the terminal for this class. Here we will discuss some of the modules required to run the calculations in class. Please make sure you have everything up and running before the Lab 1. 
 
-The list of requirements is:  
-  ```Conda/Miniconda/Anaconda  
-  Psi4 Environment  
-  Jupyter \ ipykernel \ nb_conda
-  Matplotlib  
-  Plotly
-  Blobs
-  ```
-
-
 **If you're running a Linux (any flavor) or MacOS computer**:
 
 1. Download Conda https://docs.conda.io/en/latest/miniconda.html
