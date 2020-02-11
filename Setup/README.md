@@ -22,6 +22,7 @@ You should familiarize yourself with the use of the terminal for this class. Her
   conda install matplotlib
   conda install -c plotly plotly
   conda install -c conda-forge py3dmol
+  conda install -c conda-forge nglview
   ```
   
 6. Install "blobs":
