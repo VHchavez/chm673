@@ -28,7 +28,7 @@ You should familiarize yourself with the use of the terminal for this class. Her
   ```
   git clone https://github.com/VHchavez/blobs.git
   cd blobs
-  pip install --user -e .  
+  pip install .  
   ```  
 
 **If you're running Windows**:
